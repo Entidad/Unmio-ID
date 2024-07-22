@@ -1,0 +1,19 @@
+{
+    "name": "Unmio ID",
+    "version": "0.0.1",
+    "network": "did:web",
+    "attrNames": [
+        "preferred_name",
+        "first_name",
+        "given_names",
+        "family_name",
+        "full_name",
+        "role",
+        "birthdate_dateint",
+        "preferred_language",
+        "idscan",
+        "facescan",
+        "match3d2d",
+        "profie_img"
+    ]
+}
